@@ -1,0 +1,17 @@
+{
+    "name" : "discord_rpc_yce",
+    "license": "MIT",
+    "tags": [
+        "cross", "cpp", "native", "extern", "game"
+    ],
+    "description": "Haxe hxcpp @:native externs for Discord's rich presence library with support for buttons",
+    "version" : "1.0.0",
+    "releasenote": "Initial release",
+    "contributors": [
+        "Aidan",
+        "Yoshman29"
+    ],
+    "dependencies" : {
+        "hxcpp" : ""
+    }
+}
