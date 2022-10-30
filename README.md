@@ -12,7 +12,7 @@ This library only works with the Haxe cpp target.
 ---
 
 ## Install
-`haxelib git discord_rpc https://github.com/YoshiCrafter29/linc_discord-rpc`
+`haxelib git discord_rpc_yce https://github.com/LEON-BROTHER/discord_rpc_yce`
 
 ## Example Usage
 
